@@ -37,7 +37,7 @@
         android:id="@+id/btn_roll_up"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Roll Up"
+        android:text="@string/roll_up"
         android:textSize="30sp"
         android:layout_gravity="center_horizontal" />
 
@@ -46,6 +46,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Reset"
+        android:text="@string/reset"
         android:textSize="30sp" />
 </LinearLayout>
